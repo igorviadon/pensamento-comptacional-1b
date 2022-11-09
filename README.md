@@ -10,7 +10,7 @@ Esse título é o que vai aparecer na aba da página
   
 </head>
  <body>
-    <h1>TÍTULO ___________receitas para pobres______________</h1>
+    <h1>TÍTULO _________receitas de bolos_____________</h1>
    
   <!---
 O tÍTULO h1 É O TÍTULO PRINCIPAL DO SEU SITE 
@@ -25,11 +25,11 @@ Para colocar uma imagem;
 - usar src para busca da imagem -> src="NOMEDOARQUIVO.JPG"
 --->
    
-    <h2>SUBTÍTULO _________receitaspobres_________________</h2>
+    <h2>SUBTÍTULO _________receitas faceis________________</h2>
     
     <p>PRIMEIRO PARÁAGRAFO</p>
 
-    <p> Nossa missão é: " ___________________ensinar pobres________________________________-" </p>
+    <p> Nossa missão é: " ___________________ensinar a cozinhar_______________________________-" </p>
 
      <p>TERCEIRO PARÁGRAFO .</p>
     
